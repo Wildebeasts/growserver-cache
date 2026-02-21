@@ -1,2 +1,2 @@
 EnableSQLChatFilter: 'true'
-ChatFilterWebApiOverride: grow-main-test.growtopiagame.com/webtools
+ChatFilterWebApiOverride: api.growtopiagame.com

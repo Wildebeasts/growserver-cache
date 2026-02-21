@@ -107,7 +107,7 @@
     height: 64dp;
     border: 5dp rgb(136,184,203);
     border-radius: 10dp;
-    background-color: rgba(0,0,0,128);
+    background-color: rgba(50,70,150,128);
     z-index: 1;
 }
 
